@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Random Jocks</string>
+
+    <string name="txt_btn_get_random_jocks">Jocks</string>
+    <string name="dialog_title">Random Jock</string>
+    <string name="error_msg">Jocks not found!</string>
+</resources>
